@@ -14,5 +14,8 @@
   "bugs": {
     "url": "https://github.com/Bob2100/types-nest/issues"
   },
-  "homepage": "https://github.com/Bob2100/types-nest#readme"
+  "homepage": "https://github.com/Bob2100/types-nest#readme",
+  "dependencies": {
+    "@types/chalk": "^2.2.0"
+  }
 }
