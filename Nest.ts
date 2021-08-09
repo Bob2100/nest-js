@@ -1,4 +1,4 @@
-import * as chalk from 'chalk';
+import * as chalk from "chalk";
 export default class Nest {
 
 }
