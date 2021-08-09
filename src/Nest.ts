@@ -9,7 +9,7 @@ export function assert(desc: string, condition: boolean) {
     console.log(chalk.red(desc, ' error'));
   }
 }
-export function describle(desc: string, callback: () => {}) {
+export function describle(desc: string, callback: () => void) {
   console.log(chalk.blue(desc));
   callback();
 }
