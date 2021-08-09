@@ -1,6 +1,6 @@
 {
   "name": "nest-ts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "nodejs服务端测试框架，typescript版本",
   "scripts": {
     "test": "ts-node-dev test"
